@@ -13,9 +13,9 @@ def send_new_articles():
         last = get_last_articles()
         if last:
             for article in last.values():
-                my_answer = f"{article['name']}\n{article['date']}\n{article['anotation']}\n{article['url']}"
+                my_answer = f"{article['name']}\n\n{article['date']}\n\n{article['anotation']}\n{article['url']}"
                 send_result = rq.get(
-                    URL + 'sendPhoto',
+                    URL + '/sendPhoto',
                     params={
                         'chat_id': user_id,
                         'photo': article['img'],

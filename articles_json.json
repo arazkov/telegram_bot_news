@@ -1,0 +1,90 @@
+{
+    "ustanovka-lamp-v-ubuntu-20-04": {
+        "name": "Установка LAMP в Ubuntu 20.04",
+        "author": "Александр Бархатов",
+        "date": "2 августа, 2021",
+        "img": "https://losst.ru/wp-content/uploads/2021/07/test-12-390x250.png",
+        "anotation": "LAMP - это популярный набор программного обеспечения для работы с веб-сервером. LAMP назван по первым буквам входящих в его состав компонентов: Linux - операционная система, Apache - веб-сервер,  MySQL — СУБД, PHP — язык программирования, …                        ",
+        "url": "https://losst.ru/ustanovka-lamp-v-ubuntu-20-04"
+    },
+    "chto-delaet-soobshhestvo-linux-osobennym": {
+        "name": "Что делает сообщество Linux особенным",
+        "author": "admin",
+        "date": "29 июля, 2021",
+        "img": "https://losst.ru/wp-content/uploads/2021/03/penguin-linux-watercolor-family-390x250.png",
+        "anotation": "В 2021 существует множество причин почему люди любят Linux ещё больше чем раньше. Сообщество пользователей Linux - одна из краеугольных причин использовать эту операционную систему. Многие пользователи скажут, что ключевая особенность Linux - это его …                        ",
+        "url": "https://losst.ru/chto-delaet-soobshhestvo-linux-osobennym"
+    },
+    "zapusk-python-skripta-v-linux": {
+        "name": "Запуск python скрипта в Linux",
+        "author": "admin",
+        "date": "27 июля, 2021",
+        "img": "https://losst.ru/wp-content/uploads/2020/12/runpython4-390x250.png",
+        "anotation": "Python - очень популярный язык программирования для написания различных системных скриптов в Linux. В Windows, там где не хватает возможностей командной оболочки используется PowerShell. В Linux же, когда возможностей Bash не хватает используется язык Python. …                        ",
+        "url": "https://losst.ru/zapusk-python-skripta-v-linux"
+    },
+    "komanda-dig-v-linux": {
+        "name": "Команда dig в Linux",
+        "author": "monstera90",
+        "date": "23 июля, 2021",
+        "img": "https://losst.ru/wp-content/uploads/2021/07/2-390x250.jpg",
+        "anotation": "Команда dig (domain information groper) — многофункциональный инструмент для опроса DNS-серверов. Она позволяет получить больше информации о конкретном домене, для того чтобы, например, узнать используемые им IP-адреса. Этот инструмент может оказаться полезным сетевым администраторам для …                        ",
+        "url": "https://losst.ru/komanda-dig-v-linux"
+    },
+    "kak-udalit-razdel-v-linux": {
+        "name": "Как удалить раздел в Linux",
+        "author": "admin",
+        "date": "16 июля, 2021",
+        "img": "https://losst.ru/wp-content/uploads/2021/06/gparted4-390x250.png",
+        "anotation": "Если вы работаете с дисками в Linux, то у вас время от времени возникает необходимость создавать таблицы разделов, создавать и форматировать новые разделы, а также удалять разделы. Это может понадобится для установки ещё одной системы, …                        ",
+        "url": "https://losst.ru/kak-udalit-razdel-v-linux"
+    },
+    "kak-otmenit-kommit-v-git": {
+        "name": "Как отменить коммит в Git",
+        "author": "admin",
+        "date": "13 июля, 2021",
+        "img": "https://losst.ru/wp-content/uploads/2021/07/gitresetcommit-390x250.png",
+        "anotation": "Система управления версиями git очень популярна среди разработчиков программного обеспечения. Она очень сильно облегчает работу в команде, разворачивание проектов на сервере, ну и конечно же управление историей изменений. Изменения в Git сохраняются порциями - коммитами. …                        ",
+        "url": "https://losst.ru/kak-otmenit-kommit-v-git"
+    },
+    "ustanovka-webstorm-na-ubuntu-20-04": {
+        "name": "Установка WebStorm на Ubuntu 20.04",
+        "author": "monstera90",
+        "date": "9 июля, 2021",
+        "img": "https://losst.ru/wp-content/uploads/2021/06/ustanovka-webstorm-v-ubuntu-20.04-16-390x250.png",
+        "anotation": "WebStorm — превосходный инструмент для программирования на JavaScript CSS и HTML на базе IntelliJ IDEA. Среда разработки предлагает автоисправления на основе быстрого анализа введённого кода; поддерживает автоподстановку, подсветку синтаксиса, отладку и многое другое. Однако, бесплатно …                        ",
+        "url": "https://losst.ru/ustanovka-webstorm-na-ubuntu-20-04"
+    },
+    "ustanovka-datagrip-v-ubuntu": {
+        "name": "Установка DataGrip в Ubuntu",
+        "author": "admin",
+        "date": "5 июля, 2021",
+        "img": "https://losst.ru/wp-content/uploads/2021/04/Snimok-ekrana-ot-2021-04-03-20-02-56-390x250.png",
+        "anotation": "DataGrip - это инструмент от компании JetBrains для управления различными базами данных. Можно сказать, что это расширенный аналог PhpMyAdmin, который может работать не только с MySQL или MariaDB, но и с PostgreSQL и другими базами …                        ",
+        "url": "https://losst.ru/ustanovka-datagrip-v-ubuntu"
+    },
+    "ustanovka-starcraft-2-v-linux": {
+        "name": "Установка Starcraft 2 в Linux",
+        "author": "Команда Losst",
+        "date": "7 августа, 2021",
+        "img": "https://losst.ru/wp-content/uploads/2021/07/ustanovka-starcraft-2-v-linux-9-390x250.png",
+        "anotation": "StarCraft II входит в список самых популярных игр от компании Blizzard. Несмотря на свой почтенный возраст, эта стратегия в реальном времени по-прежнему привлекает множество игроков, к тому же её первая глава распространяется бесплатно с 2012 …                        ",
+        "url": "https://losst.ru/ustanovka-starcraft-2-v-linux"
+    },
+    "ustanovka-porteus-linux-na-fleshku": {
+        "name": "Установка Porteus Linux на флешку",
+        "author": "monstera90",
+        "date": "13 августа, 2021",
+        "img": "https://losst.ru/wp-content/uploads/2021/03/ustanovka-proteus-linux-15-390x250.png",
+        "anotation": "Porteus Linux — компактный, нетребовательный к ресурсам компьютера портативный дистрибутив. Систему можно установить на съемный USB-накопитель и работать на ПК без жесткого диска. Образ системы занимает всего 300 Мб, а значит оставшееся место на флешке …                        ",
+        "url": "https://losst.ru/ustanovka-porteus-linux-na-fleshku"
+    },
+    "nastrojka-gitlab-ci-cd": {
+        "name": "Настройка GitLab CI/CD",
+        "author": "admin",
+        "date": "9 августа, 2021",
+        "img": "https://losst.ru/wp-content/uploads/2021/07/gitlabci19-390x250.png",
+        "anotation": "Если вы используете Git и GitLab для хранения кода, то можете упростить и автоматизировать разворачивание вашего кода на сервере сразу же, при появлении новых изменений в GitLab репозитории. Этот процесс называется CI/CD (Continuous Integration, Continuous …                        ",
+        "url": "https://losst.ru/nastrojka-gitlab-ci-cd"
+    }
+}

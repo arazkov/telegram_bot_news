@@ -13,13 +13,17 @@ def send_new_articles():
         last = get_last_articles()
         if last:
             for article in last.values():
-                my_answer = f"{article['name']}\n\n{article['date']}\n\n{article['anotation']}\n{article['url']}"
-                send_result = rq.get(
+                my_answer = f"<b>{article['name']}</b>\n" \
+                            f"<i>{article['date']}</i>\n\n" \
+                            f"{article['anotation']}\n" \
+                            f"<a href='{article['url']}'>inline URL</a>"
+                send_result = rq.post(
                     URL + '/sendPhoto',
                     params={
                         'chat_id': user_id,
                         'photo': article['img'],
-                        'caption': my_answer
+                        'caption': my_answer,
+                        'parse_mode': 'HTML'
                     }
                 )
         time.sleep(3600) #repeat every hour

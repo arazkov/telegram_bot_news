@@ -86,5 +86,21 @@
         "img": "https://losst.ru/wp-content/uploads/2021/07/gitlabci19-390x250.png",
         "anotation": "Если вы используете Git и GitLab для хранения кода, то можете упростить и автоматизировать разворачивание вашего кода на сервере сразу же, при появлении новых изменений в GitLab репозитории. Этот процесс называется CI/CD (Continuous Integration, Continuous …                        ",
         "url": "https://losst.ru/nastrojka-gitlab-ci-cd"
+    },
+    "ustanovka-curl-v-ubuntu": {
+        "name": "Установка curl в Ubuntu",
+        "author": "Команда Losst",
+        "date": "20 августа, 2021",
+        "img": "https://losst.ru/wp-content/uploads/2021/06/ustanovka-curl-v-ubuntu-2-390x250.png",
+        "anotation": "Если установочный скрипт выдаёт ошибку: bash: curl: command not found или bash: curl: команда не найдена. Это значит что такой команды нет в вашей системе. Решение простое – установить утилиту curl. Эта утилита для скачивания …                        ",
+        "url": "https://losst.ru/ustanovka-curl-v-ubuntu"
+    },
+    "ustanovka-nginx-i-php-fpm-v-ubuntu-20-04": {
+        "name": "Установка Nginx и PHP-FPM в Ubuntu 20.04",
+        "author": "Александр Бархатов",
+        "date": "16 августа, 2021",
+        "img": "https://losst.ru/wp-content/uploads/2021/08/ustanovka-nginx-i-php-fpm-v-ubuntu-20.04-6-390x250.png",
+        "anotation": "Интерпретатор языка программирования PHP может работать в нескольких режимах. Он может быть интегрирован в веб-сервер в виде специального модуля или использоваться как отдельный сервис PHP-FPM. Аббревиатура FPM расшифровывается как FastCGI Process Manager. Это сервис, который …                        ",
+        "url": "https://losst.ru/ustanovka-nginx-i-php-fpm-v-ubuntu-20-04"
     }
 }

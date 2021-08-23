@@ -10,8 +10,8 @@ soup = bs(r.text, "html.parser")
 
 def get_last_articles():
 
-    with open('articles_json.json', 'r') as file:
-        articles_data = json.loads(file.read())
+    with open('articles_json.json') as file:
+        articles_data = json.load(file)
 
     articles_list = [name for name in soup.find_all('article', class_='latestPost')]
 
@@ -39,11 +39,8 @@ def get_last_articles():
                         }
                     }
                 )
+            with open('articles_json.json', 'w') as file:
+                json.dump(last_articles, file, indent=4, ensure_ascii=False)
         else:
             break
-
-    articles_data.update(last_articles)
-    with open('articles_json.json', 'w') as file:
-        json.dump(articles_data, file, indent=4, ensure_ascii=False)
-
     return last_articles
